@@ -36,7 +36,8 @@ font-family:"Century Gothic", "Lato", sans-serif;
 .dropdown:hover .dropdown-content {display: block;
 }
 footer{
-background-color:black
+background-color:black;
+color:white;
 }
 
 .row {
@@ -169,6 +170,4 @@ display: flex;
 .hw{
    color:white;
 }
-footer{
-   color:white;
-}
+
